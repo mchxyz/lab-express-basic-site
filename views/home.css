@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+
+body {
+    padding: 3em;
+    background: #5D3FD3;
+}
+
+.title-1,
+.title-2 {
+    color: #ffffff;
+}
+
+.title-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2em;
+    font-size: 1.1em;
+}
